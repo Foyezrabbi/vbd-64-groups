@@ -1,0 +1,4 @@
+{
+    "groups": ["123456789012345", "234567890123456", "345678901234567"],
+    "message": "Hello, this is a test message from my Python script!"
+}
